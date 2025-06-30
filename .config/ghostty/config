@@ -1,0 +1,8 @@
+background-opacity = 0.9
+#cursor-invert-fg-bg
+
+font-size = 20
+
+window-theme = ghostty
+adw-toolbar-style = flat
+
